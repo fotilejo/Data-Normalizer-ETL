@@ -1,0 +1,495 @@
+[
+    {
+        "titulo": "La investigación bibliotecológica en la Argentina y los Estados Unidos",
+        "autor": "Falcato, Pedro",
+        "autor_institucional": "Centro de Investigación Documentaria (CID)",
+        "anio": 1989,
+        "editor": "s.ed.",
+        "reunion": "",
+        "signatura": "3611",
+        "descriptores": [
+            "Bibliotecología",
+            "Ciencias de la Información",
+            "Investigación Científico Técnica",
+            "Argentina",
+            "Estados Unidos"
+        ]
+    },
+    {
+        "titulo": "Evaluación administrativa de publicaciones periódicas en una biblioteca argentina especializada multidisciplinaria de investigación",
+        "autor": "Falcato, Pedro",
+        "autor_institucional": "Centro de Investigación Documentaria (CID)",
+        "anio": 1993,
+        "editor": "INTI-CID",
+        "reunion": "",
+        "signatura": "3615",
+        "descriptores": [
+            "Bibliotecología",
+            "Publicaciones Periódicas",
+            "Evaluación de la Información",
+            "Bibliometría",
+            "Administración",
+            "Bibliotecas Especializadas"
+        ]
+    },
+    {
+        "titulo": "Panorama general de la información en relación con la industria argentina",
+        "autor": "Falcato, Pedro",
+        "autor_institucional": "Centro de Investigación Documentaria (CID)",
+        "anio": 1987,
+        "editor": "s.ed.",
+        "reunion": "",
+        "signatura": "3052",
+        "descriptores": [
+            "Información",
+            "Sistemas de Información",
+            "Argentina",
+            "Cambio Tecnológico",
+            "Bases de Datos"
+        ]
+    },
+    {
+        "titulo": "Necesidades de información en la industria y publicaciones periódicas: consideraciones previas a su estudio",
+        "autor": "Falcato, Pedro",
+        "autor_institucional": "Centro de Investigación Documentaria (CID)",
+        "anio": 1987,
+        "editor": "s.ed.",
+        "reunion": ". Seminario, 1. AR. 1987",
+        "signatura": "3211",
+        "descriptores": [
+            "Publicaciones Periódicas",
+            "Fuentes de Información",
+            "Usuarios",
+            "Empresas Industriales",
+            "Tecnología Apropiada"
+        ]
+    },
+    {
+        "titulo": "La ley de Bradford y sus aplicaciones: una introducción",
+        "autor": "Falcato, Pedro",
+        "autor_institucional": "Centro de Investigación Documentaria (CID)",
+        "anio": 1989,
+        "editor": "s.ed.",
+        "reunion": "",
+        "signatura": "3404",
+        "descriptores": [
+            "Técnicas Estadísticas",
+            "Publicaciones Periódicas",
+            "Bibliometría"
+        ]
+    },
+    {
+        "titulo": "Breve panorama de la situación de Internet en la República Argentina. Informe misión al exterior; autorizada por Disposición de Presidencia N§189/95, a Bogotá-Colombia, del 25 al 29 de setiembre de 1995",
+        "autor": "Falcato, Pedro",
+        "autor_institucional": "Centro de Investigación Documentaria (CID)",
+        "anio": 1995,
+        "editor": "INTI-CID",
+        "reunion": "Organización de las Naciones Unidas para el Desarrollo Industrial (ONUDI) // COLCIENCIAS, Bogotá, CO. Internet training course. CO. 1995",
+        "signatura": "3870",
+        "descriptores": [
+            "Viajes",
+            "Cursos",
+            "Capacitación",
+            "Internet",
+            "Redes de información",
+            "Argentina"
+        ]
+    },
+    {
+        "titulo": "Guías para la selección y utilización de términos de búsqueda en bases de datos con campos de lengua natural",
+        "autor": "Falcato, Pedro",
+        "autor_institucional": "Centro de Investigación Documentaria (CIME-CID)",
+        "anio": 2000,
+        "editor": "s.ed.",
+        "reunion": "",
+        "signatura": "4276",
+        "descriptores": [
+            "Recuperación de información",
+            "Estrategias de búsqueda",
+            "Términos de indización",
+            "Términos de búsqueda",
+            "Servicio de referencia",
+            "Usuarios",
+            "Lenguajes de indización"
+        ]
+    },
+    {
+        "titulo": "Directrices para las transacciones de referencia en la  Biblioteca del Instituto Nacional de Tecnología Industrial",
+        "autor": "Falcato, Pedro; López, Alicia Isabel; Araujo, Juan Facundo",
+        "autor_institucional": "Centro de Investigación y Desarrollo de Métodos y Técnicas para Empresas Industriales (INTI-Extensión y Desarrollo-div.Biblioteca)",
+        "anio": 2004,
+        "editor": "INTI",
+        "reunion": "",
+        "signatura": "4411",
+        "descriptores": [
+            "Servicio de referencia",
+            "Sistemas de calidad",
+            "Bibliotecas especializadas",
+            "Procedimientos",
+            "Calidad",
+            "Usuarios",
+            "Manejo de la información",
+            "INTI"
+        ]
+    },
+    {
+        "titulo": "Cuando opinar se convierte en un ejercicio académico;17 editoriales de información, cultura y sociedad",
+        "autor": "",
+        "autor_institucional": "Instituto de Investigaciones Bibliotecológicas (INIBI)",
+        "anio": 2007,
+        "editor": "INIBI",
+        "reunion": "",
+        "signatura": "021/I59",
+        "descriptores": [
+            "Bibliotecología",
+            "Investigación",
+            "Ciencias de la información",
+            "Bibliotecas",
+            "Bibliotecas públicas",
+            "Usuarios",
+            "Evaluación"
+        ]
+    },
+    {
+        "titulo": "Sistema de ayuda para la redacción de mensajes en un servicio de referencia por correo electrónico",
+        "autor": "Falcato, Pedro",
+        "autor_institucional": "",
+        "anio": 2005,
+        "editor": "INIBI",
+        "reunion": "",
+        "signatura": "4514",
+        "descriptores": [
+            "Referencia virtual",
+            "Servicio de referencia",
+            "Correo electrónico",
+            "Comunicaciones",
+            "Interfaces"
+        ]
+    },
+    {
+        "titulo": "Lugares entre no lugares",
+        "autor": "Falcato, Pedro",
+        "autor_institucional": "",
+        "anio": 2007,
+        "editor": "INIBI",
+        "reunion": "",
+        "signatura": "4563",
+        "descriptores": [
+            "Información",
+            "Política de información",
+            "Bibliotecas",
+            "Manejo de la información"
+        ]
+    },
+    {
+        "titulo": "Acerca de profesión, modas, cambio y continuidad",
+        "autor": "Falcato, Pedro",
+        "autor_institucional": "",
+        "anio": 2007,
+        "editor": "INIBI",
+        "reunion": "",
+        "signatura": "4564",
+        "descriptores": [
+            "Profesionales",
+            "Bibliotecología",
+            "Bibliotecarios"
+        ]
+    },
+    {
+        "titulo": "Sistema para la gestión de consultas de referencia recibidas por correo electrónico",
+        "autor": "Falcato, Pedro",
+        "autor_institucional": " (INTI-Extensión y Desarrollo- Biblioteca)",
+        "anio": 2007,
+        "editor": "INTI",
+        "reunion": "Instituto Nacional de Tecnología Industrial (INTI), Buenos Aires, AR. Jornadas de desarrollo e innovación tecnológica, 6 / Tecnologías blandas, desarrollo e innovación. AR. 2007",
+        "signatura": "PEI/2",
+        "descriptores": [
+            "Referencia virtual",
+            "Servicio de referencia",
+            "Correo electrónico",
+            "Gestión",
+            "Bibliotecas especializadas",
+            "INTI",
+            "Software"
+        ]
+    },
+    {
+        "titulo": "Sistema de respuestas semiautomáticas a consultas de referencia recibidas por correo electrónico",
+        "autor": "Falcato, P.",
+        "autor_institucional": " (INTI-Extensión y Desarrollo-Biblioteca)",
+        "anio": 2004,
+        "editor": "INTI",
+        "reunion": "Instituto Nacional de Tecnología Industrial (INTI), Buenos Aires, AR. Jornadas de desarrollo e innovación tecnológica, 5 / Otras actividades tecnológicas, informática, aplicación interna. AR. 2004",
+        "signatura": "",
+        "descriptores": [
+            "Referencia virtual",
+            "Servicio de referencia",
+            "Correo electrónico",
+            "Automatización",
+            "Software",
+            "Sistemas computarizados",
+            "Informática"
+        ]
+    },
+    {
+        "titulo": "Directrices para las transacciones de referencia en la Biblioteca del Instituto Nacional de Tecnología Industrial",
+        "autor": "Falcato, P.; López, A. I.; Araujo, J. F.",
+        "autor_institucional": " (INTI-Extensión y Desarrollo-Biblioteca)",
+        "anio": 2004,
+        "editor": "INTI",
+        "reunion": "Instituto Nacional de Tecnología Industrial (INTI), Buenos Aires, AR. Jornadas de desarrollo e innovación tecnológica, 5 / Otras actividades tecnológicas, procesos, aplicación interna. AR. 2004",
+        "signatura": "",
+        "descriptores": [
+            "Bibliotecas especializadas",
+            "INTI",
+            "Servicio de referencia",
+            "Planificación",
+            "Fuentes de información",
+            "Sistemas de calidad"
+        ]
+    },
+    {
+        "titulo": "Búsqueda de información mediante términos de la lengua natural en fuentes electrónicas y evaluación de las mismas",
+        "autor": "Falcato, P.",
+        "autor_institucional": " (INTI-Extensión y Desarrollo-Biblioteca)",
+        "anio": 2000,
+        "editor": "INTI",
+        "reunion": "Instituto Nacional de Tecnología Industrial (INTI), Buenos Aires, AR. Jornadas de desarrollo e innovación, 3 / Electrónica e Informática, precompetitivo, investigación aplicada. AR. 2000",
+        "signatura": "",
+        "descriptores": [
+            "Recuperación de información",
+            "Estrategías de búsquedas",
+            "Términos de búsqueda",
+            "Términos de indización",
+            "Fuentes de información",
+            "Evaluación"
+        ]
+    },
+    {
+        "titulo": "Criterio modular para evaluar y seleccionar fuentes de información en internet",
+        "autor": "Falcato, P.",
+        "autor_institucional": " (INTI-Extensión y Desarrollo-Biblioteca)",
+        "anio": 2002,
+        "editor": "INTI",
+        "reunion": "Instituto Nacional de Tecnología Industrial (INTI), Buenos Aires, AR. Jornadas de desarrollo e innovación, 4 / Electrónica e informática, investigación aplicada, precompetitivo. AR. 2002",
+        "signatura": "",
+        "descriptores": [
+            "Fuentes de información",
+            "Evaluación de la información",
+            "Internet",
+            "Servicios de información",
+            "Sector industrialLíquidos",
+            "Institutos de investigación",
+            "Servicio de referencia"
+        ]
+    },
+    {
+        "titulo": "Sistema de ayuda para la redacción de mensajes en un servicio de referencia por correo electrónico",
+        "autor": "Falcato, Pedro",
+        "autor_institucional": "",
+        "anio": 2005,
+        "editor": "INIBI",
+        "reunion": "",
+        "signatura": "4514",
+        "descriptores": [
+            "Servicio de referencias",
+            "Correo electrónico",
+            "Comunicaciones",
+            "Interfaces"
+        ]
+    },
+    {
+        "titulo": "El Grupo de Trabajo sobre Consultas en Bases de Datos del CAICYT: Un antecedente argentino en la pre-historia de las búsquedas de información científica y tecnológica en Internet. Parte 1: Contexto original y conformación del grupo. The Work Team on Databases Queries of CAICYT: An Argentine precedent in the pre-history of the scientific and technological information search on the Internet. Part 1: Original context and the conformation of the group",
+        "autor": "Falcato, P.",
+        "autor_institucional": " (INTI-Extensión y Desarrollo-Biblioteca)",
+        "anio": 2013,
+        "editor": "INIBI",
+        "reunion": "",
+        "signatura": "",
+        "descriptores": [
+            "Búsqueda en línea",
+            "Recuperación de información",
+            "Bases de datos",
+            "Internet",
+            "Historia",
+            "Fuentes de información",
+            "Documentación",
+            "Capacitación",
+            "Información científico técnica"
+        ]
+    },
+    {
+        "titulo": "Algunas reflexiones relacionadas con el sentido (o sinsentido) de la investigación. Some thoughts related to the sense (or senseless) of research",
+        "autor": "Falcato, Pedro",
+        "autor_institucional": " (INTI-Extensión y Desarrollo-Biblioteca)",
+        "anio": 2008,
+        "editor": "INIBI",
+        "reunion": "",
+        "signatura": "",
+        "descriptores": [
+            "Investigación",
+            "Metodología"
+        ]
+    },
+    {
+        "titulo": "El Grupo de Trabajo sobre Consultas en Bases de Datos del CAICYT: Un antecedente argentino en la pre-historia de las búsquedas de información científica y tecnológica en Internet. Parte 2: Desarrollo, actividades y legado. The Work Team on Databases Queries of CAICYT: An Argentine precedent in the pre-history of the scientific and technological information search on the Internet. Part 2: Development, Activities and Legacy",
+        "autor": "Falcato, Pedro",
+        "autor_institucional": " (INTI-Extensión y Desarrollo-Biblioteca)",
+        "anio": 2014,
+        "editor": "INIBI",
+        "reunion": "",
+        "signatura": "",
+        "descriptores": [
+            "Búsqueda en línea",
+            "Recuperación de información",
+            "Bases de datos",
+            "Internet",
+            "Historia",
+            "Fuentes de información",
+            "Documentación",
+            "Capacitación",
+            "Información científico técnica"
+        ]
+    },
+    {
+        "titulo": "Procesos de búsqueda de información en entornos digitales: un estudio de usuarios del área tecnológica industrial argentina",
+        "autor": "Falcato, P.",
+        "autor_institucional": "Universidad de Buenos Aires. Facultad de Filosofía y Letras",
+        "anio": 2015,
+        "editor": "s.e.",
+        "reunion": "",
+        "signatura": "",
+        "descriptores": [
+            "Bibliotecología",
+            "Ciencias de la información",
+            "Usuarios",
+            "Búsqueda en línea",
+            "Estrategias de búsqueda",
+            "Términos de búsqueda",
+            "Recuperación de la información",
+            "Manejo de la información",
+            "Evaluación de la información",
+            "Fuentes de información",
+            "Sistemas de información",
+            "Alfabetización informacional",
+            "Sociedad de la información",
+            "Tecnologías de la información y la comunicación",
+            "Información industrial",
+            "Investigación científico técnica",
+            "Tecnología y ciencia",
+            "Servicio de referencia"
+        ]
+    },
+    {
+        "titulo": "Resiliencia de servicios bibliotecarios en el área tecnológica",
+        "autor": "Falcato, Pedro",
+        "autor_institucional": "Instituto Nacional de Tecnología Industrial (INTI)",
+        "anio": 2019,
+        "editor": "s.n.",
+        "reunion": "Asociación de Bibliotecarios Graduados de la República Argentina (ABGRA), AR. ^nJornada de Bibliotecas de Ciencia y Tecnología^sJoBiCyT^n9. AR. 2019",
+        "signatura": "",
+        "descriptores": [
+            "Servicio de referencia",
+            "Servicios de información",
+            "Bibliotecas especializadas",
+            "Bibliotecarios",
+            "Bibliotecología",
+            "Tecnología y ciencia",
+            "Investigación científico técnica"
+        ]
+    },
+    {
+        "titulo": "Libertad, información y la urgencia del desarrollo de las competencias informacionales",
+        "autor": "Falcato, Pedro",
+        "autor_institucional": "Instituto Nacional de Tecnología Industrial (INTI)",
+        "anio": 2019,
+        "editor": "INIBI",
+        "reunion": "2019",
+        "signatura": "",
+        "descriptores": [
+            "Bibliotecología",
+            "Libertad",
+            "Manejo de la información",
+            "Evaluación de la información",
+            "Ciencias de la información",
+            "Sociedad de la información",
+            "Alfabetización informacional"
+        ]
+    },
+    {
+        "titulo": "Necesidades, obstáculos y soluciones en la búsqueda de información tecnológica: combinando estudio de usuarios con formación",
+        "autor": "Falcato, P.",
+        "autor_institucional": "",
+        "anio": 2015,
+        "editor": "INTI",
+        "reunion": "Instituto Nacional de Tecnología Industrial (INTI), Buenos Aires, AR. TecnoINTI edición 2015. Jornadas Abiertas de Desarrollo, Innovación y Transferencia Tecnológica, 12. AR. 2015",
+        "signatura": "",
+        "descriptores": [
+            "Estrategias de búsqueda",
+            "Infornación científico técnica"
+        ]
+    },
+    {
+        "titulo": "Búsqueda de información tecnológica industrial: estudio de usuarios en el INTI",
+        "autor": "Falcato, P.",
+        "autor_institucional": "",
+        "anio": 2017,
+        "editor": "INTI",
+        "reunion": "Instituto Nacional de Tecnología Industrial (INTI), Buenos Aires, AR. TecnoINTI edición 2017. Jornadas Abiertas de Desarrollo, Innovación y Transferencia Tecnológica, 13. AR. 2017",
+        "signatura": "",
+        "descriptores": [
+            "Estrategias de búsqueda",
+            "Evaluación de la información",
+            "Fuentes de información",
+            "Usuarios",
+            "Servicio de referencia"
+        ]
+    },
+    {
+        "titulo": "Desarrollo e implementación del Repositorio Institucional del INTI versión 3.0",
+        "autor": "Cossalter, R.; de Haro, H. A.; Falcato, P.; Zein, M. F.",
+        "autor_institucional": "",
+        "anio": 2022,
+        "editor": "INTI",
+        "reunion": "Instituto Nacional de Tecnología Industrial (INTI), Argentina. TecnoINTI edición 2022, 14. AR. 2022",
+        "signatura": "",
+        "descriptores": [
+            "Repositorios digitales",
+            "Repositorios institucionales",
+            "Acceso abierto",
+            "Información científico técnica"
+        ]
+    },
+    {
+        "titulo": "Análisis bibliométrico de coautoría y colaboración en torno a las 13as. jornadas TecnoINTI",
+        "autor": "Falcato, P.; Dana, A. R.; de Haro, H. A.; Cossalter, R.; Lavalle, B. C.",
+        "autor_institucional": "",
+        "anio": 2022,
+        "editor": "INTI",
+        "reunion": "Instituto Nacional de Tecnología Industrial (INTI), Argentina. TecnoINTI edición 2022, 14. AR. 2022",
+        "signatura": "",
+        "descriptores": [
+            "Bibliometría",
+            "Repositorios digitales",
+            "Repositorios institucionales",
+            "Acceso abierto",
+            "Información científico técnica"
+        ]
+    },
+    {
+        "titulo": "Análisis bibliométrico de coautoría y colaboración en torno a las 13as. jornadas TecnoINTI : informe extenso",
+        "autor": "Falcato, P.; Dana, A. R.; de Haro, H. A.; Cossalter, R.; Lavalle, B. C.",
+        "autor_institucional": "",
+        "anio": 2022,
+        "editor": "INTI",
+        "reunion": "Instituto Nacional de Tecnología Industrial (INTI), Argentina. TecnoINTI edición 2022, 14. AR. 2022",
+        "signatura": "",
+        "descriptores": [
+            "Bibliometría",
+            "Repositorios digitales",
+            "Repositorios institucionales",
+            "Acceso abierto",
+            "Información científico técnica"
+        ]
+    }
+]
