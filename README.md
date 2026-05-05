@@ -1,4 +1,4 @@
-# data-normalizer-etl
+# Data-Normalizer-ETL
 Data Normalizer Pipeline: Legacy to JSON 🔄
 📌 Descripción del Proyecto
 Script ETL (Extract, Transform, Load) desarrollado en Python para automatizar la migración, auditoría y limpieza de registros bibliográficos exportados desde un sistema legacy a un formato estructurado moderno (JSON).
